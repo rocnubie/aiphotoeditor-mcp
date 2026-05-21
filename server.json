@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.rocnubie/aiphotoeditor-mcp",
+  "title": "AI Photo Editor MCP",
+  "description": "Best AI Photo Editor powered by GPT Image 2, Flux, Nano Banana & more.",
+  "version": "0.1.0",
+  "websiteUrl": "https://bestaiphotoeditor.app",
+  "repository": {
+    "url": "https://github.com/rocnubie/aiphotoeditor-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/rocnubie/aiphotoeditor-mcp/main/assets/hero.png",
+      "mimeType": "image/png"
+    }
+  ]
+}
